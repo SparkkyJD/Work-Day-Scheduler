@@ -1,7 +1,10 @@
 # Work-Day-Scheduler
 Work Day Scheduler UNC Bootcamp HM5
 
-https://sparkkyjd.github.io/Work-Day-Scheduler/![Screenshot (9)](https://user-images.githubusercontent.com/127361245/233871482-c4b282cf-9b57-4fd0-8f35-dcd18605223a.png)
+https://sparkkyjd.github.io/Work-Day-Scheduler/
+
+![Screenshot (9)](https://user-images.githubusercontent.com/127361245/233871514-c33b284a-aae9-4e0e-bd72-cfb9a4ea4146.png)
+
 
 Your Task
 Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
